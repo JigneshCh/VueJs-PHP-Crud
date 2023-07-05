@@ -5,5 +5,4 @@
  
  ## Overview 
 
- - Url_1:  http://13.234.224.145/Jignesh-demo/VueJs-PHP-Crud/
- - Url_2: http://jc-deloper.com/Jignesh-demo/VueJs-PHP-Crud/
+ - Url:  http://jcwebdeveloper.com/Jignesh-demo/VueJs-PHP-Crud/
